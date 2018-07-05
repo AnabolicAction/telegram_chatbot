@@ -1,0 +1,8 @@
+app/*.pdf
+app/pdf/a.pdf
+*.pdf
+app/**/*.pdf
+app/
+
+# Ignore application configuration
+/config/application.yml
